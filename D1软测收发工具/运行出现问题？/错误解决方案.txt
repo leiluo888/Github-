@@ -1,0 +1,4 @@
+·如果出现错误1，请先下载安装【dotnet Framework】，安装后运行即可。
+下载地址：https://dotnet.microsoft.com/zh-cn/download
+
+·如果出现错误2，请点击【更多信息】四个字，然后点击右下角【仍要运行】按钮即可。
