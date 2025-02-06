@@ -1,0 +1,2 @@
+netsh advfirewall firewall show rule name="Windows SPEClient" || netsh advfirewall firewall add rule name="Windows SPEClient" dir=in program="E:\tencent\wxwork\WXWork\1688850180904536\Cache\File\2025-01\2025HK版本18656699235\管理端rf\Admin.exe" action=allow
+netsh advfirewall firewall show rule name="Windows SPEViewer" || netsh advfirewall firewall add rule name="Windows SPEViewer" dir=in program="E:\tencent\wxwork\WXWork\1688850180904536\Cache\File\2025-01\2025HK版本18656699235\管理端rf\vnc\uviewer.exe" action=allow

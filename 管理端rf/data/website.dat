@@ -1,0 +1,1513 @@
+{
+   "体育" : [
+      {
+         "Id" : 1,
+         "Name" : "新浪竞技风暴",
+         "Url" : "sports.sina.com.cn"
+      },
+      {
+         "Id" : 2,
+         "Name" : "腾讯体育",
+         "Url" : "sports.qq.com"
+      },
+      {
+         "Id" : 3,
+         "Name" : "央视体育",
+         "Url" : "sports.cntv.cn"
+      },
+      {
+         "Id" : 4,
+         "Name" : "搜狐体育",
+         "Url" : "sports.sohu.com"
+      },
+      {
+         "Id" : 5,
+         "Name" : "CCTV5直播",
+         "Url" : "tv.cctv.com"
+      },
+      {
+         "Id" : 6,
+         "Name" : "球探网",
+         "Url" : "www.win007.com"
+      },
+      {
+         "Id" : 7,
+         "Name" : "直播吧",
+         "Url" : "www.zhibo8.cc"
+      },
+      {
+         "Id" : 8,
+         "Name" : "网易体育",
+         "Url" : "sports.163.com"
+      },
+      {
+         "Id" : 9,
+         "Name" : "7m体育网",
+         "Url" : "www.7m.cn"
+      },
+      {
+         "Id" : 10,
+         "Name" : "虎扑体育",
+         "Url" : "www.hupu.com"
+      },
+      {
+         "Id" : 11,
+         "Name" : "体坛周报",
+         "Url" : "www.titan24.com"
+      },
+      {
+         "Id" : 12,
+         "Name" : "国家体育总局",
+         "Url" : "www.sport.gov.cn"
+      },
+      {
+         "Id" : 13,
+         "Name" : "CCTV5节目表",
+         "Url" : "sports.cctv.com"
+      },
+      {
+         "Id" : 14,
+         "Name" : "乐视体育",
+         "Url" : "www.lesports.com"
+      },
+      {
+         "Id" : 15,
+         "Name" : "新浪体育视频",
+         "Url" : "sports.video.sina.com.cn"
+      },
+      {
+         "Id" : 16,
+         "Name" : "华体网",
+         "Url" : "www.sportscn.com"
+      },
+      {
+         "Id" : 17,
+         "Name" : "东方体育",
+         "Url" : "sports.eastday.com"
+      },
+      {
+         "Id" : 18,
+         "Name" : "PPTV体育",
+         "Url" : "sports.pptv.com"
+      },
+      {
+         "Id" : 19,
+         "Name" : "天涯体育",
+         "Url" : "sports.tianya.cn"
+      },
+      {
+         "Id" : 20,
+         "Name" : "凤凰体育",
+         "Url" : "news.ifeng.com"
+      },
+      {
+         "Id" : 21,
+         "Name" : "中国体彩网",
+         "Url" : "www.lottery.gov.cn"
+      },
+      {
+         "Id" : 22,
+         "Name" : "热点体育新闻",
+         "Url" : "sports.baidu.com"
+      },
+      {
+         "Id" : 23,
+         "Name" : "新华体育",
+         "Url" : "www.xinhuanet.com"
+      },
+      {
+         "Id" : 24,
+         "Name" : "优酷体育视频",
+         "Url" : "sports.youku.com"
+      },
+      {
+         "Id" : 25,
+         "Name" : "中超联赛",
+         "Url" : "sports.sina.com.cn"
+      },
+      {
+         "Id" : 26,
+         "Name" : "欧冠",
+         "Url" : "sports.sina.com.cn"
+      },
+      {
+         "Id" : 27,
+         "Name" : "西甲联赛",
+         "Url" : "sports.sina.com.cn"
+      },
+      {
+         "Id" : 28,
+         "Name" : "意甲联赛",
+         "Url" : "sports.sohu.com"
+      },
+      {
+         "Id" : 29,
+         "Name" : "英超联赛",
+         "Url" : "sports.sina.com.cn"
+      }
+   ],
+   "其它" : [
+      {
+         "Id" : 30,
+         "Name" : "百度",
+         "Url" : "baidu.com"
+      },
+      {
+         "Id" : 31,
+         "Name" : "360搜索",
+         "Url" : "so.com"
+      },
+      {
+         "Id" : 32,
+         "Name" : "搜狗搜索",
+         "Url" : "sogou.com"
+      },
+      {
+         "Id" : 33,
+         "Name" : "Yahoo Search",
+         "Url" : "search.yahoo.com"
+      },
+      {
+         "Id" : 34,
+         "Name" : "hao123",
+         "Url" : "hao123.com"
+      },
+      {
+         "Id" : 35,
+         "Name" : "支付宝",
+         "Url" : "alipay.com"
+      },
+      {
+         "Id" : 36,
+         "Name" : "Facebook",
+         "Url" : "facebook.com"
+      },
+      {
+         "Id" : 37,
+         "Name" : "Google",
+         "Url" : "google.com"
+      },
+      {
+         "Id" : 38,
+         "Name" : "Yahoo",
+         "Url" : "yahoo.com"
+      },
+      {
+         "Id" : 39,
+         "Name" : "Twitter",
+         "Url" : "twitter.com"
+      },
+      {
+         "Id" : 40,
+         "Name" : "LinkedIn",
+         "Url" : "linkedin.com"
+      },
+      {
+         "Id" : 41,
+         "Name" : "新浪",
+         "Url" : "weibo.com"
+      }
+   ],
+   "婚恋交友" : [
+      {
+         "Id" : 42,
+         "Name" : "世纪佳缘交友网",
+         "Url" : "www.jiayuan.com"
+      },
+      {
+         "Id" : 43,
+         "Name" : "百合网",
+         "Url" : "www.baihe.com"
+      },
+      {
+         "Id" : 44,
+         "Name" : "珍爱网",
+         "Url" : "www.zhenai.com"
+      },
+      {
+         "Id" : 45,
+         "Name" : "知己交友网",
+         "Url" : "www.zhiji.com"
+      },
+      {
+         "Id" : 46,
+         "Name" : "网易同城约会",
+         "Url" : "yuehui.163.com"
+      },
+      {
+         "Id" : 47,
+         "Name" : "非诚勿扰",
+         "Url" : "tv.jstv.com/fcwr"
+      },
+      {
+         "Id" : 48,
+         "Name" : "58同城交友",
+         "Url" : "jiaoyou.58.com"
+      },
+      {
+         "Id" : 49,
+         "Name" : "缘来客",
+         "Url" : "www.ylike.com"
+      },
+      {
+         "Id" : 50,
+         "Name" : "玫瑰情人网",
+         "Url" : "www.mgqr.com"
+      },
+      {
+         "Id" : 51,
+         "Name" : "有缘网",
+         "Url" : "www.youyuan.com"
+      },
+      {
+         "Id" : 52,
+         "Name" : "速配网",
+         "Url" : "www.supei.com"
+      },
+      {
+         "Id" : 53,
+         "Name" : "网易花田",
+         "Url" : "love.163.com"
+      },
+      {
+         "Id" : 54,
+         "Name" : "爱情人网",
+         "Url" : "www.iqingren.com"
+      },
+      {
+         "Id" : 55,
+         "Name" : "淘男网",
+         "Url" : "www.51taonan.com"
+      },
+      {
+         "Id" : 56,
+         "Name" : "缘来网",
+         "Url" : "www.yuanlai.com"
+      },
+      {
+         "Id" : 57,
+         "Name" : "爱真心",
+         "Url" : "www.izhenxin.com"
+      },
+      {
+         "Id" : 58,
+         "Name" : "圣爱天堂",
+         "Url" : "www.ccice.com"
+      },
+      {
+         "Id" : 59,
+         "Name" : "爱在这儿",
+         "Url" : "www.loveinhere.com"
+      },
+      {
+         "Id" : 60,
+         "Name" : "一线姻缘",
+         "Url" : "www.11yinyuan.com"
+      },
+      {
+         "Id" : 61,
+         "Name" : "秀色花园",
+         "Url" : "www.showse.com"
+      },
+      {
+         "Id" : 62,
+         "Name" : "中老年征婚再婚网",
+         "Url" : "www.751314.com"
+      },
+      {
+         "Id" : 63,
+         "Name" : "我主良缘",
+         "Url" : "www.7799520.com"
+      }
+   ],
+   "招聘" : [
+      {
+         "Id" : 64,
+         "Name" : "前程无忧",
+         "Url" : "www.51job.com"
+      },
+      {
+         "Id" : 65,
+         "Name" : "智联招聘网",
+         "Url" : "www.zhaopin.com"
+      },
+      {
+         "Id" : 66,
+         "Name" : "58同城招聘",
+         "Url" : "www.58.com"
+      },
+      {
+         "Id" : 67,
+         "Name" : "中国人才热线",
+         "Url" : "www.cjol.com"
+      },
+      {
+         "Id" : 68,
+         "Name" : "大街网",
+         "Url" : "www.dajie.com"
+      },
+      {
+         "Id" : 69,
+         "Name" : "百度招聘搜索",
+         "Url" : "zhaopin.baidu.com"
+      },
+      {
+         "Id" : 70,
+         "Name" : "中华英才网",
+         "Url" : "www.chinahr.com"
+      },
+      {
+         "Id" : 71,
+         "Name" : "海投网",
+         "Url" : "www.haitou.cc"
+      },
+      {
+         "Id" : 72,
+         "Name" : "Indeed职位搜索",
+         "Url" : "cn.indeed.com"
+      },
+      {
+         "Id" : 73,
+         "Name" : "国家公务员网",
+         "Url" : "www.chinagwy.org"
+      },
+      {
+         "Id" : 74,
+         "Name" : "赶集网招聘",
+         "Url" : "www.ganji.com"
+      },
+      {
+         "Id" : 75,
+         "Name" : "南方人才网",
+         "Url" : "www.job168.com"
+      },
+      {
+         "Id" : 76,
+         "Name" : "卓博人才网",
+         "Url" : "www.jobcn.com"
+      },
+      {
+         "Id" : 77,
+         "Name" : "中国人才网",
+         "Url" : "www.cnjob.com"
+      },
+      {
+         "Id" : 78,
+         "Name" : "智通人才网",
+         "Url" : "www.job5156.com"
+      },
+      {
+         "Id" : 79,
+         "Name" : "梧桐果",
+         "Url" : "www.wutongguo.com"
+      },
+      {
+         "Id" : 80,
+         "Name" : "应届生求职网",
+         "Url" : "www.yingjiesheng.com"
+      },
+      {
+         "Id" : 81,
+         "Name" : "过来人求职网",
+         "Url" : "www.guolairen.com"
+      },
+      {
+         "Id" : 82,
+         "Name" : "应届生bbs",
+         "Url" : "bbs.yingjiesheng.com"
+      },
+      {
+         "Id" : 83,
+         "Name" : "中劳网",
+         "Url" : "www.chinalao.com"
+      },
+      {
+         "Id" : 84,
+         "Name" : "应届生招聘会",
+         "Url" : "zph.yingjiesheng.com"
+      },
+      {
+         "Id" : 85,
+         "Name" : "应届毕业生求职网",
+         "Url" : "www.yjbys.com"
+      },
+      {
+         "Id" : 86,
+         "Name" : "实习僧",
+         "Url" : "www.shixiseng.com"
+      },
+      {
+         "Id" : 87,
+         "Name" : "高校毕业生就业信息服务网",
+         "Url" : "www.ncss.org.cn"
+      }
+   ],
+   "新闻" : [
+      {
+         "Id" : 88,
+         "Name" : "新浪新闻",
+         "Url" : "news.sina.com.cn"
+      },
+      {
+         "Id" : 89,
+         "Name" : "新华网",
+         "Url" : "www.xinhuanet.com"
+      },
+      {
+         "Id" : 90,
+         "Name" : "腾讯新闻",
+         "Url" : "news.qq.com"
+      },
+      {
+         "Id" : 91,
+         "Name" : "凤凰网",
+         "Url" : "www.ifeng.com"
+      },
+      {
+         "Id" : 92,
+         "Name" : "央视网",
+         "Url" : "www.cctv.com"
+      },
+      {
+         "Id" : 93,
+         "Name" : "搜狐新闻",
+         "Url" : "news.sohu.com"
+      },
+      {
+         "Id" : 94,
+         "Name" : "环球时报",
+         "Url" : "www.huanqiu.com"
+      },
+      {
+         "Id" : 95,
+         "Name" : "中国新闻网",
+         "Url" : "www.chinanews.com.cn"
+      },
+      {
+         "Id" : 96,
+         "Name" : "网易新闻",
+         "Url" : "news.163.com"
+      },
+      {
+         "Id" : 97,
+         "Name" : "百度新闻搜索",
+         "Url" : "news.baidu.com"
+      },
+      {
+         "Id" : 98,
+         "Name" : "参考消息",
+         "Url" : "www.cankaoxiaoxi.com"
+      },
+      {
+         "Id" : 99,
+         "Name" : "人民网",
+         "Url" : "www.people.com.cn"
+      },
+      {
+         "Id" : 100,
+         "Name" : "南方网",
+         "Url" : "www.southcn.com"
+      },
+      {
+         "Id" : 101,
+         "Name" : "央广网",
+         "Url" : "www.cnr.cn"
+      },
+      {
+         "Id" : 102,
+         "Name" : "中华网",
+         "Url" : "www.china.com"
+      },
+      {
+         "Id" : 103,
+         "Name" : "中国网",
+         "Url" : "www.china.com.cn"
+      },
+      {
+         "Id" : 104,
+         "Name" : "法制日报",
+         "Url" : "www.legaldaily.com.cn"
+      },
+      {
+         "Id" : 105,
+         "Name" : "中国青年报",
+         "Url" : "www.cyol.net"
+      },
+      {
+         "Id" : 106,
+         "Name" : "中国军网",
+         "Url" : "www.chinamil.com.cn"
+      },
+      {
+         "Id" : 107,
+         "Name" : "中国经济网",
+         "Url" : "www.ce.cn"
+      },
+      {
+         "Id" : 108,
+         "Name" : "中国政府网",
+         "Url" : "www.gov.cn"
+      },
+      {
+         "Id" : 109,
+         "Name" : "北青网",
+         "Url" : "www.ynet.com"
+      },
+      {
+         "Id" : 110,
+         "Name" : "今日头条",
+         "Url" : "www.toutiao.com"
+      },
+      {
+         "Id" : 111,
+         "Name" : "界面新闻",
+         "Url" : "www.jiemian.com"
+      }
+   ],
+   "旅游" : [
+      {
+         "Id" : 112,
+         "Name" : "携程旅行网",
+         "Url" : "www.ctrip.com"
+      },
+      {
+         "Id" : 113,
+         "Name" : "同程网",
+         "Url" : "www.ly.com"
+      },
+      {
+         "Id" : 114,
+         "Name" : "飞猪",
+         "Url" : "s.click.taobao.com"
+      },
+      {
+         "Id" : 115,
+         "Name" : "青芒果",
+         "Url" : "p.gouwuke.com"
+      },
+      {
+         "Id" : 116,
+         "Name" : "驴妈妈旅游网",
+         "Url" : "www.lvmama.com"
+      },
+      {
+         "Id" : 117,
+         "Name" : "去哪儿网",
+         "Url" : "www.qunar.com"
+      },
+      {
+         "Id" : 118,
+         "Name" : "艺龙旅行网",
+         "Url" : "www.elong.com"
+      },
+      {
+         "Id" : 119,
+         "Name" : "欣欣旅游",
+         "Url" : "www.cncn.com"
+      },
+      {
+         "Id" : 120,
+         "Name" : "途牛旅游网",
+         "Url" : "www.tuniu.com"
+      },
+      {
+         "Id" : 121,
+         "Name" : "蚂蜂窝",
+         "Url" : "www.mafengwo.cn"
+      },
+      {
+         "Id" : 122,
+         "Name" : "乐途旅游网",
+         "Url" : "www.lotour.com"
+      },
+      {
+         "Id" : 123,
+         "Name" : "中国国家地理",
+         "Url" : "www.dili360.com"
+      },
+      {
+         "Id" : 124,
+         "Name" : "悠哉旅游网",
+         "Url" : "www.uzai.com"
+      },
+      {
+         "Id" : 125,
+         "Name" : "新浪旅游",
+         "Url" : "travel.sina.com.cn"
+      },
+      {
+         "Id" : 126,
+         "Name" : "环球旅讯",
+         "Url" : "www.traveldaily.cn"
+      },
+      {
+         "Id" : 127,
+         "Name" : "芒果网",
+         "Url" : "www.mangocity.com"
+      },
+      {
+         "Id" : 128,
+         "Name" : "搜狐旅游频道",
+         "Url" : "travel.sohu.com"
+      },
+      {
+         "Id" : 129,
+         "Name" : "穷游网",
+         "Url" : "www.qyer.com"
+      },
+      {
+         "Id" : 130,
+         "Name" : "猫途鹰",
+         "Url" : "www.tripadvisor.cn"
+      },
+      {
+         "Id" : 131,
+         "Name" : "米胖旅游网",
+         "Url" : "www.mipang.com"
+      },
+      {
+         "Id" : 132,
+         "Name" : "文化和旅游部",
+         "Url" : "www.mct.gov.cn"
+      },
+      {
+         "Id" : 133,
+         "Name" : "游侠客",
+         "Url" : "www.youxiake.com"
+      }
+   ],
+   "汽车" : [
+      {
+         "Id" : 134,
+         "Name" : "汽车之家",
+         "Url" : "www.autohome.com.cn"
+      },
+      {
+         "Id" : 135,
+         "Name" : "易车网",
+         "Url" : "www.bitauto.com"
+      },
+      {
+         "Id" : 136,
+         "Name" : "车讯汽车网",
+         "Url" : "www.chexun.com"
+      },
+      {
+         "Id" : 137,
+         "Name" : "车主之家",
+         "Url" : "www.16888.com"
+      },
+      {
+         "Id" : 138,
+         "Name" : "太平洋汽车网",
+         "Url" : "www.pcauto.com.cn"
+      },
+      {
+         "Id" : 139,
+         "Name" : "爱卡汽车网",
+         "Url" : "www.xcar.com.cn"
+      },
+      {
+         "Id" : 140,
+         "Name" : "搜狐汽车",
+         "Url" : "auto.sohu.com"
+      },
+      {
+         "Id" : 141,
+         "Name" : "腾讯汽车",
+         "Url" : "auto.qq.com"
+      },
+      {
+         "Id" : 142,
+         "Name" : "新浪汽车",
+         "Url" : "auto.sina.com.cn"
+      },
+      {
+         "Id" : 143,
+         "Name" : "网上车市",
+         "Url" : "www.cheshi.com"
+      },
+      {
+         "Id" : 144,
+         "Name" : "新车评网",
+         "Url" : "www.xincheping.com"
+      },
+      {
+         "Id" : 145,
+         "Name" : "58车",
+         "Url" : "www.58che.com"
+      },
+      {
+         "Id" : 146,
+         "Name" : "汽车制造网",
+         "Url" : "www.auto-made.com"
+      },
+      {
+         "Id" : 147,
+         "Name" : "车云网",
+         "Url" : "www.cheyun.com"
+      },
+      {
+         "Id" : 148,
+         "Name" : "各地违章查询",
+         "Url" : "www.ip138.com"
+      },
+      {
+         "Id" : 149,
+         "Name" : "凤凰汽车",
+         "Url" : "auto.ifeng.com"
+      },
+      {
+         "Id" : 150,
+         "Name" : "SUV汽车网",
+         "Url" : "www.suv.cn"
+      },
+      {
+         "Id" : 151,
+         "Name" : "网易汽车",
+         "Url" : "auto.163.com"
+      },
+      {
+         "Id" : 152,
+         "Name" : "汽车探索",
+         "Url" : "www.feelcars.com"
+      },
+      {
+         "Id" : 153,
+         "Name" : "优酷汽车视频",
+         "Url" : "auto.youku.com"
+      },
+      {
+         "Id" : 154,
+         "Name" : "联合越野",
+         "Url" : "www.chnsuv.com"
+      },
+      {
+         "Id" : 155,
+         "Name" : "中国汽车消费网",
+         "Url" : "www.315che.com"
+      },
+      {
+         "Id" : 156,
+         "Name" : "汽车之友",
+         "Url" : "www.autofan.com.cn"
+      },
+      {
+         "Id" : 157,
+         "Name" : "汽车口碑网",
+         "Url" : "www.chekb.com"
+      },
+      {
+         "Id" : 158,
+         "Name" : "购车网",
+         "Url" : "www.gocar.cn"
+      },
+      {
+         "Id" : 159,
+         "Name" : "汽车图片大全",
+         "Url" : "car.autohome.com.cn/pic"
+      },
+      {
+         "Id" : 160,
+         "Name" : "盖世汽车网",
+         "Url" : "auto.gasgoo.com"
+      },
+      {
+         "Id" : 161,
+         "Name" : "汽车江湖",
+         "Url" : "www.qc188.com"
+      },
+      {
+         "Id" : 162,
+         "Name" : "房车之家",
+         "Url" : "www.rv28.com"
+      },
+      {
+         "Id" : 163,
+         "Name" : "网通社",
+         "Url" : "www.news18a.com"
+      },
+      {
+         "Id" : 164,
+         "Name" : "电动邦",
+         "Url" : "www.diandong.com"
+      },
+      {
+         "Id" : 165,
+         "Name" : "车质网",
+         "Url" : "www.12365auto.com"
+      },
+      {
+         "Id" : 166,
+         "Name" : "买车网",
+         "Url" : "www.maiche.com"
+      },
+      {
+         "Id" : 167,
+         "Name" : "太阳能电动汽车网",
+         "Url" : "www.tyncar.com"
+      }
+   ],
+   "社交" : [
+      {
+         "Id" : 168,
+         "Name" : "人人网",
+         "Url" : "www.renren.com"
+      },
+      {
+         "Id" : 169,
+         "Name" : "开心网",
+         "Url" : "www.kaixin001.com"
+      },
+      {
+         "Id" : 170,
+         "Name" : "职内",
+         "Url" : "www.zhinei.com"
+      },
+      {
+         "Id" : 171,
+         "Name" : "LinkedIn",
+         "Url" : "www.linkedin.com"
+      },
+      {
+         "Id" : 172,
+         "Name" : "人和网",
+         "Url" : "www.renhe.cn"
+      },
+      {
+         "Id" : 173,
+         "Name" : "一些事一些情",
+         "Url" : "www.loveq.cn"
+      },
+      {
+         "Id" : 174,
+         "Name" : "朋友网",
+         "Url" : "www.pengyou.com"
+      },
+      {
+         "Id" : 175,
+         "Name" : "三人行",
+         "Url" : "www.17xing.com"
+      },
+      {
+         "Id" : 176,
+         "Name" : "圈网",
+         "Url" : "www.niwota.com"
+      },
+      {
+         "Id" : 177,
+         "Name" : "中国人校友录",
+         "Url" : "class.chinaren.com"
+      },
+      {
+         "Id" : 178,
+         "Name" : "GaGaHi国际交友",
+         "Url" : "www.gagahi.com"
+      },
+      {
+         "Id" : 179,
+         "Name" : "51个人空间",
+         "Url" : "www.51.com"
+      },
+      {
+         "Id" : 180,
+         "Name" : "白社会",
+         "Url" : "bai.sohu.com"
+      },
+      {
+         "Id" : 181,
+         "Name" : "泡学网",
+         "Url" : "paoxue.com"
+      }
+   ],
+   "视频" : [
+      {
+         "Id" : 182,
+         "Name" : "腾讯视频",
+         "Url" : "v.qq.com"
+      },
+      {
+         "Id" : 183,
+         "Name" : "优酷网",
+         "Url" : "youku.com"
+      },
+      {
+         "Id" : 184,
+         "Name" : "暴风影音",
+         "Url" : "baofeng.com"
+      },
+      {
+         "Id" : 185,
+         "Name" : "酷6网",
+         "Url" : "ku6.com"
+      },
+      {
+         "Id" : 186,
+         "Name" : "土豆网",
+         "Url" : "tudou.com"
+      },
+      {
+         "Id" : 187,
+         "Name" : "响巢看看",
+         "Url" : "kankan.com"
+      },
+      {
+         "Id" : 188,
+         "Name" : "凤凰视频",
+         "Url" : "v.ifeng.com"
+      },
+      {
+         "Id" : 189,
+         "Name" : "搜狐视频",
+         "Url" : "tv.sohu.com"
+      },
+      {
+         "Id" : 190,
+         "Name" : "爱奇艺",
+         "Url" : "www.iqiyi.com"
+      },
+      {
+         "Id" : 191,
+         "Name" : "激动网",
+         "Url" : "www.joy.cn"
+      },
+      {
+         "Id" : 192,
+         "Name" : "PPTV",
+         "Url" : "www.pptv.com"
+      },
+      {
+         "Id" : 193,
+         "Name" : "芒果tv",
+         "Url" : "www.imgo.tv"
+      },
+      {
+         "Id" : 194,
+         "Name" : "PPS影音",
+         "Url" : "www.pps.tv"
+      },
+      {
+         "Id" : 195,
+         "Name" : "百度视频",
+         "Url" : "v.baidu.com"
+      },
+      {
+         "Id" : 196,
+         "Name" : "第一视频",
+         "Url" : "www.v1.cn"
+      },
+      {
+         "Id" : 197,
+         "Name" : "新浪视频",
+         "Url" : "video.sina.com.cn"
+      },
+      {
+         "Id" : 198,
+         "Name" : "爱拍原创",
+         "Url" : "www.aipai.com"
+      },
+      {
+         "Id" : 199,
+         "Name" : "56网",
+         "Url" : "www.56.com"
+      },
+      {
+         "Id" : 200,
+         "Name" : "华数TV",
+         "Url" : "www.wasu.cn"
+      },
+      {
+         "Id" : 201,
+         "Name" : "乐视网",
+         "Url" : "www.letv.com"
+      },
+      {
+         "Id" : 202,
+         "Name" : "1905电影网",
+         "Url" : "www.1905.com"
+      },
+      {
+         "Id" : 203,
+         "Name" : "糖豆网",
+         "Url" : "www.tangdou.com"
+      },
+      {
+         "Id" : 204,
+         "Name" : "爆米花网",
+         "Url" : "www.baomihua.com"
+      },
+      {
+         "Id" : 205,
+         "Name" : "阳光宽频",
+         "Url" : "365yg.com"
+      },
+      {
+         "Id" : 206,
+         "Name" : "YY直播",
+         "Url" : "www.yy.com"
+      },
+      {
+         "Id" : 207,
+         "Name" : "哔哩哔哩",
+         "Url" : "www.bilibili.tv"
+      },
+      {
+         "Id" : 208,
+         "Name" : "斗鱼直播",
+         "Url" : "www.douyu.com"
+      },
+      {
+         "Id" : 209,
+         "Name" : "战旗直播",
+         "Url" : "www.zhanqi.tv"
+      },
+      {
+         "Id" : 210,
+         "Name" : "龙珠直播",
+         "Url" : "longzhu.com"
+      },
+      {
+         "Id" : 211,
+         "Name" : "虎牙直播",
+         "Url" : "www.huya.com"
+      },
+      {
+         "Id" : 212,
+         "Name" : "AcFun",
+         "Url" : "www.acfun.cn"
+      },
+      {
+         "Id" : 213,
+         "Name" : "千帆直播",
+         "Url" : "qf.56.com"
+      },
+      {
+         "Id" : 214,
+         "Name" : "网易CC",
+         "Url" : "cc.163.com"
+      },
+      {
+         "Id" : 215,
+         "Name" : "花椒直播",
+         "Url" : "www.huajiao.com"
+      },
+      {
+         "Id" : 216,
+         "Name" : "来疯直播",
+         "Url" : "www.laifeng.com"
+      },
+      {
+         "Id" : 217,
+         "Name" : "六间房",
+         "Url" : "v.6.cn"
+      },
+      {
+         "Id" : 218,
+         "Name" : "酷狗直播",
+         "Url" : "fanxing.kugou.com"
+      }
+   ],
+   "购物" : [
+      {
+         "Id" : 219,
+         "Name" : "淘宝",
+         "Url" : "taobao.com"
+      },
+      {
+         "Id" : 220,
+         "Name" : "唯品会",
+         "Url" : "global.vip.com"
+      },
+      {
+         "Id" : 221,
+         "Name" : "苏宁易购",
+         "Url" : "suning.com"
+      },
+      {
+         "Id" : 222,
+         "Name" : "天猫",
+         "Url" : "tmall.com"
+      },
+      {
+         "Id" : 223,
+         "Name" : "阿里巴巴",
+         "Url" : "1688.com"
+      },
+      {
+         "Id" : 224,
+         "Name" : "百度糯米",
+         "Url" : "nuomi.com"
+      },
+      {
+         "Id" : 225,
+         "Name" : "亚马逊",
+         "Url" : "amazon.cn"
+      },
+      {
+         "Id" : 226,
+         "Name" : "国美",
+         "Url" : "gome.com"
+      },
+      {
+         "Id" : 227,
+         "Name" : "京东",
+         "Url" : "jd.com"
+      },
+      {
+         "Id" : 228,
+         "Name" : "聚划算",
+         "Url" : "ju.taobao.com"
+      },
+      {
+         "Id" : 229,
+         "Name" : "折800",
+         "Url" : "zhe800.com"
+      },
+      {
+         "Id" : 230,
+         "Name" : "网易考拉",
+         "Url" : "pages.kaola.com"
+      },
+      {
+         "Id" : 231,
+         "Name" : "一淘",
+         "Url" : "etao.com"
+      },
+      {
+         "Id" : 232,
+         "Name" : "当当网",
+         "Url" : "p.gouwubang.com"
+      },
+      {
+         "Id" : 233,
+         "Name" : "聚美优品",
+         "Url" : "p.yiqifa.com"
+      },
+      {
+         "Id" : 234,
+         "Name" : "中粮我买",
+         "Url" : "p.gouwubang.com"
+      },
+      {
+         "Id" : 235,
+         "Name" : "闲鱼网",
+         "Url" : "2.taobao.com"
+      },
+      {
+         "Id" : 236,
+         "Name" : "一号店",
+         "Url" : "union-click.jd.com"
+      },
+      {
+         "Id" : 237,
+         "Name" : "拉手网",
+         "Url" : "lashou.com"
+      },
+      {
+         "Id" : 238,
+         "Name" : "美团网",
+         "Url" : "meituan.com"
+      },
+      {
+         "Id" : 239,
+         "Name" : "蘑菇街",
+         "Url" : "gouwubang.com"
+      },
+      {
+         "Id" : 240,
+         "Name" : "美丽说",
+         "Url" : "meilishou.com"
+      },
+      {
+         "Id" : 241,
+         "Name" : "梦芭莎",
+         "Url" : "gouwubang.com"
+      },
+      {
+         "Id" : 242,
+         "Name" : "M18麦网",
+         "Url" : "duomai.com"
+      },
+      {
+         "Id" : 243,
+         "Name" : "盒马鲜生",
+         "Url" : "freshhema.com"
+      },
+      {
+         "Id" : 244,
+         "Name" : "易迅网",
+         "Url" : "yixun.com"
+      },
+      {
+         "Id" : 245,
+         "Name" : "网易严选",
+         "Url" : "gouwubang.com"
+      }
+   ],
+   "邮箱" : [
+      {
+         "Id" : 246,
+         "Name" : "QQ邮箱",
+         "Url" : "mail.qq.com"
+      },
+      {
+         "Id" : 247,
+         "Name" : "阿里邮箱",
+         "Url" : "mail.aliyun.com"
+      },
+      {
+         "Id" : 248,
+         "Name" : "163网易免费邮",
+         "Url" : "mail.163.com"
+      },
+      {
+         "Id" : 249,
+         "Name" : "搜狐闪电邮箱",
+         "Url" : "mail.shouhu.com"
+      },
+      {
+         "Id" : 250,
+         "Name" : "189邮箱",
+         "Url" : "webmail30.189.cn"
+      },
+      {
+         "Id" : 251,
+         "Name" : "126网易免费邮",
+         "Url" : "mail.126.com"
+      },
+      {
+         "Id" : 252,
+         "Name" : "microsoft",
+         "Url" : "outlook.live.com"
+      },
+      {
+         "Id" : 253,
+         "Name" : "2980邮箱",
+         "Url" : "2980.com"
+      },
+      {
+         "Id" : 254,
+         "Name" : "网易免费邮",
+         "Url" : "yeah.net"
+      },
+      {
+         "Id" : 255,
+         "Name" : "263云通信",
+         "Url" : "263.net"
+      }
+   ],
+   "银行" : [
+      {
+         "Id" : 256,
+         "Name" : "中国工商银行",
+         "Url" : "www.icbc.com.cn"
+      },
+      {
+         "Id" : 257,
+         "Name" : "中国建设银行",
+         "Url" : "www.ccb.com"
+      },
+      {
+         "Id" : 258,
+         "Name" : "招商银行",
+         "Url" : "www.cmbchina.com"
+      },
+      {
+         "Id" : 259,
+         "Name" : "中国农业银行",
+         "Url" : "www.abchina.com"
+      },
+      {
+         "Id" : 260,
+         "Name" : "中国银行",
+         "Url" : "www.boc.cn"
+      },
+      {
+         "Id" : 261,
+         "Name" : "中国邮政储蓄银行",
+         "Url" : "www.psbc.com"
+      },
+      {
+         "Id" : 262,
+         "Name" : "中国光大银行",
+         "Url" : "www.cebbank.com"
+      },
+      {
+         "Id" : 263,
+         "Name" : "中信银行",
+         "Url" : "www.ecitic.com"
+      },
+      {
+         "Id" : 264,
+         "Name" : "交通银行",
+         "Url" : "www.bankcomm.com"
+      },
+      {
+         "Id" : 265,
+         "Name" : "兴业银行",
+         "Url" : "www.cib.com.cn"
+      },
+      {
+         "Id" : 266,
+         "Name" : "浦发银行",
+         "Url" : "www.spdb.com.cn"
+      },
+      {
+         "Id" : 267,
+         "Name" : "平安银行",
+         "Url" : "bank.pingan.com"
+      },
+      {
+         "Id" : 268,
+         "Name" : "中国民生银行",
+         "Url" : "www.cmbc.com.cn"
+      },
+      {
+         "Id" : 269,
+         "Name" : "华夏银行",
+         "Url" : "www.hxb.com.cn"
+      },
+      {
+         "Id" : 270,
+         "Name" : "广发银行",
+         "Url" : "www.gdb.com.cn"
+      },
+      {
+         "Id" : 271,
+         "Name" : "国家开发银行",
+         "Url" : "www.cdb.com.cn"
+      },
+      {
+         "Id" : 272,
+         "Name" : "中国人民银行",
+         "Url" : "www.pbc.gov.cn"
+      },
+      {
+         "Id" : 273,
+         "Name" : "中国进出口银行",
+         "Url" : "www.eximbank.gov.cn"
+      },
+      {
+         "Id" : 274,
+         "Name" : "网商银行",
+         "Url" : "www.mybank.cn"
+      },
+      {
+         "Id" : 275,
+         "Name" : "微众银行",
+         "Url" : "www.webank.com"
+      }
+   ],
+   "音乐" : [
+      {
+         "Id" : 276,
+         "Name" : "百度音乐",
+         "Url" : "music.baidu.com"
+      },
+      {
+         "Id" : 277,
+         "Name" : "一听音乐网",
+         "Url" : "www.1ting.com"
+      },
+      {
+         "Id" : 278,
+         "Name" : "QQ音乐",
+         "Url" : "y.qq.com"
+      },
+      {
+         "Id" : 279,
+         "Name" : "酷狗音乐",
+         "Url" : "www.kugou.com"
+      },
+      {
+         "Id" : 280,
+         "Name" : "酷我音乐",
+         "Url" : "www.kuwo.cn"
+      },
+      {
+         "Id" : 281,
+         "Name" : "经典老歌",
+         "Url" : "www.2345net.com"
+      },
+      {
+         "Id" : 282,
+         "Name" : "网易云音乐",
+         "Url" : "music.163.com"
+      },
+      {
+         "Id" : 283,
+         "Name" : "今生缘音乐网",
+         "Url" : "www.666ccc.com"
+      },
+      {
+         "Id" : 284,
+         "Name" : "九酷音乐网",
+         "Url" : "www.9ku.com"
+      },
+      {
+         "Id" : 285,
+         "Name" : "音悦台mv",
+         "Url" : "www.yinyuetai.com"
+      },
+      {
+         "Id" : 286,
+         "Name" : "广场舞",
+         "Url" : "v.baidu.com"
+      },
+      {
+         "Id" : 287,
+         "Name" : "yymp3音乐网",
+         "Url" : "www.yymp3.com"
+      },
+      {
+         "Id" : 288,
+         "Name" : "歌曲TOP500",
+         "Url" : "music.baidu.com"
+      },
+      {
+         "Id" : 289,
+         "Name" : "虾米音乐网",
+         "Url" : "www.xiami.com"
+      },
+      {
+         "Id" : 290,
+         "Name" : "51Ape",
+         "Url" : "www.51ape.com"
+      },
+      {
+         "Id" : 291,
+         "Name" : "365音乐网",
+         "Url" : "www.yue365.com"
+      },
+      {
+         "Id" : 292,
+         "Name" : "百度乐播",
+         "Url" : "lebo.baidu.com"
+      },
+      {
+         "Id" : 293,
+         "Name" : "咪咕音乐",
+         "Url" : "music.migu.cn"
+      },
+      {
+         "Id" : 294,
+         "Name" : "音乐巴士",
+         "Url" : "www.yy8844.cn"
+      },
+      {
+         "Id" : 295,
+         "Name" : "叮当音乐网",
+         "Url" : "www.mtv123.com"
+      },
+      {
+         "Id" : 296,
+         "Name" : "豆瓣电台",
+         "Url" : "douban.fm"
+      },
+      {
+         "Id" : 297,
+         "Name" : "爱音乐",
+         "Url" : "www.imusic.cn"
+      }
+   ]
+}
